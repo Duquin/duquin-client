@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "duquin",
+	"version": "${version}",
+	"name": "Minecraft",
+	"description": "Основная игра!",
+	"authors": [
+		"Duquin"
+	],
+	"contact": {
+		"homepage": "https://t.me/duquin_client",
+		"sources": "https://t.me/duquin_client"
+	},
+	"license": "Minecraft EULA",
+	"icon": "assets/duquin/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"ru.levin.DuquinClient"
+		]
+	},
+	"mixins": [
+		"duquin.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

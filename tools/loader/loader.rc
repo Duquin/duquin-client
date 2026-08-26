@@ -1,0 +1,2 @@
+IDI_ICON1 ICON "..\\..\\icon.ico"
+101 RCDATA "..\\..\\build\\libs\\duquin-1.21.4.jar"
