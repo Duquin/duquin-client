@@ -42,9 +42,6 @@ Duquin Client — бесплатный utility-мод для Minecraft **1.21.4*
 
 [MIT](LICENSE) — код свободен для использования, модификации и распространения.
 
-## Telegram
-
-Новости и обновления: https://t.me/duquin_client
 
 ## Дисклеймер
 
